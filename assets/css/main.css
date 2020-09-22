@@ -333,8 +333,8 @@ hr {
   display: none;
 }
 .header-img {
-  max-width: 100%; 
-  height: auto;
+  width: 100% !important;
+  height: auto !important;
   background: url('/oficina.jpg');
-  background-size: 100%;
+  background-size: 100% !important;
 }
